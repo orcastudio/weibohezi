@@ -1,0 +1,1 @@
+<?php		/**	 * define the hostlink	 * 	 */	define( 'INDEXPATH', 'http://localhost/weibohezi' );	define( 'IMGPATH', 'http://localhost/weibohezi/wb-content/img/' );	define( 'HEADIMGPATH', 'http://localhost/weibohezi/wb-content/headimg/' );	#FILE-END
